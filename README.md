@@ -12,6 +12,8 @@ Aplicação web contruída para capturar localização e clima atual.
 
 <hr />
 
+#### Para ver a aplicação funcionando, acesse: `https://getweather.gramachodev.com.br/`
+
 ## Iniciando
 
 1. Clone este repositório utilizando `git clone https://github.com/netogramacho/getWeather.git`
