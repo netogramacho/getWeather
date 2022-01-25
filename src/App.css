@@ -1,0 +1,26 @@
+body {
+    background-color: #FFF;
+    color: #000;
+}
+
+button {
+    padding: 10px 25px;
+    margin: 20px 0 15px;
+    background-color: #1E90FF;
+    color: #FFF;
+    border-color: #1E90FF;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.App {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.Cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
